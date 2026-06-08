@@ -84,8 +84,6 @@ When I'm not shipping I'm probably hunting for new music (peep [TwoTone](https:/
 
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Guysnacho&theme=forest&custom_title=Me+myself+and+I)
-
 <br/><br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Guysnacho&color=22C55E&style=for-the-badge&label=VISITORS)
