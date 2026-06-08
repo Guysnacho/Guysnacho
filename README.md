@@ -84,12 +84,17 @@ When I'm not shipping I'm probably hunting for new music (peep [TwoTone](https:/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guysnacho&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=EC4899&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-streak-stats.demolab.com?user=Guysnacho&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=EC4899&currStreakLabel=22C55E" height="165" />
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Guysnacho&theme=forest&custom_title=Me+myself+and+I)
 
 <br/><br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Guysnacho&color=22C55E&style=for-the-badge&label=VISITORS)
+
+<br/><br/>
+
+<sub>a lil slideshow of a few images that build my personal philosophy, no other context provided</sub>
+<br/>
+<img src="images/banner.gif" width="480" alt="rotating banner of nonsense from my camera roll" />
 
 <br/>
 
